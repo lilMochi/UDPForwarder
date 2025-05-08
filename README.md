@@ -98,4 +98,4 @@ Contributions are welcome! Please submit a pull request or open an issue on GitH
 ## Acknowledgments
 
 - Built for compatibility with BeamNG.drive and Sigma Integrate Motion Systems (DK software).
-- Based on the [BeamNG Telemetry Scheme](./BeamNG_Telemetry_Scheme.pdf) for accurate data handling.
+- Based on the [BeamNG Telemetry Scheme](https://github.com/your-username/beamng-udp-forwarder/raw/main/BeamNG_Telemetry_Scheme.pdf) for accurate data handling.
